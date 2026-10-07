@@ -1,5 +1,3 @@
-Claro. Abaixo está o conteúdo **pronto para copiar diretamente para `README.md`**, em Markdown puro, mantendo os diagramas Mermaid.
-
  # 🏆 Plataforma de Gerenciamento de Ligas Esportivas
 
  Sistema web para **gestão completa de ligas, campeonatos, modalidades esportivas, equipes, atletas, documentos, partidas, resultados e classificações**.
